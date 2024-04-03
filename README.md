@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Gustavo
-#### I am an IT Student, and the stuff thast I do like the most is Front-End and UI/UX Design!
+#### I am an IT Student, and the stuff that I do like the most is Front-End Development and UI/UX Design!
 I'm a simple guy, I love basketball and I like to code and to design some random stuff. I also have a lot of interest in Android Development!
 
 Skills: HTML / CSS / JS / ANGULAR / WEB DESIGN
