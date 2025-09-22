@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 <h1>Hi 👋, I'm Gustavo</h1>
-<h4>🔭 I am an IT Student, and the stuff that I do like the most is Front-End Development and UI/UX Design! I'm a simple guy, I love basketball and I like to code and to design some random stuff. I also have a lot of interest in Android Development!<br><br></h4>
+<h4>🔭 I am studying a Master's in Communication and Web Technologies at UA, and the stuff that I do like the most is Front-End Development and UI/UX Design! I'm a simple guy, I love basketball and I like to code and to design some random stuff. I also have a lot of interest in Android Development!<br><br></h4>
 
-<h5>I'm currently finishing my graduate!</h3>
+<h5>I'm currently a !</h3>
 
 
 ## 🌐 Socials:
